@@ -1,1 +1,1 @@
-# SQLQuery
+# Transact-SQL Training 
